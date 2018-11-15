@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/Wpf_MapControl_BubbleChartDataAdapter/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_BubbleChartDataAdapter/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/Wpf_MapControl_BubbleChartDataAdapter/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_BubbleChartDataAdapter/MainWindow.xaml))
+<!-- default file list end -->
 # How to: automatically generate bubble chart items from a datasource
 
 
